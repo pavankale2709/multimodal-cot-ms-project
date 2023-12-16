@@ -80,4 +80,4 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python main_central.py \
 
 ## Acknowledgement
 
-Part of our codes are adapted from [mm-cot] (https://github.com/amazon-science/mm-cot), [ScienceQA](https://github.com/lupantech/ScienceQA), [Transformers](https://github.com/huggingface/transformers), [pytorch-image-models](https://github.com/huggingface/pytorch-image-models).
+Part of our codes are adapted from [mm-cot](https://github.com/amazon-science/mm-cot), [ScienceQA](https://github.com/lupantech/ScienceQA), [Transformers](https://github.com/huggingface/transformers), [pytorch-image-models](https://github.com/huggingface/pytorch-image-models).
